@@ -6,5 +6,6 @@ dependencies:
   - matplotlib
   - matplotlib-base
   - numpy
+  - pip
   - python
   - pandas
