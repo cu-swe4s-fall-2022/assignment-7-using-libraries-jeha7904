@@ -1,0 +1,9 @@
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - matplotlib-base
+  - numpy
+  - python
